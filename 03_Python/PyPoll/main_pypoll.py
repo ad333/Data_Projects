@@ -1,6 +1,4 @@
 ###########################################################################################
-#  Name:  Ashwini Devkota
-#  Program:  PyPoll
 #  Summary: 
 #       This program analyzes votes of an election using poll data from a CSV
 #       file.  Then it prints the analysis to the terminal as well as exports results 
