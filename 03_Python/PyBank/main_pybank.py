@@ -1,6 +1,4 @@
 ###########################################################################################
-#  Name:  Ashwini Devkota
-#  Program:  PyBank
 #  Summary: 
 #       This program analyzes financial records of a company using revenue data from a CSV
 #       file.  Then it prints the analysis to the terminal as well as exports results 
